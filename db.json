@@ -30,5 +30,13 @@
 			"title": "Win a Kahoot quiz",
 			"completed": true
 		}
+	],
+	"users": [
+		{
+		"name": "Kinya",
+		},
+		{
+			"name": "Moses",
+		}
 	]
 }
