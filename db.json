@@ -1,34 +1,39 @@
 {
-	"todos": [
-		{
-			"id": "1",
-			"title": "Complete Week 1 Code Challenge",
-			"completed": true
-		},
-		{
-			"id": "2",
-			"title": "Do all pending quizzes",
-			"completed": false
-		},
-		{
-			"id": "3",
-			"title": "Finish project presentation",
-			"completed": true
-		},
-		{
-			"id": "4",
-			"title": "Study JS map method",
-			"completed": false
-		},
-		{
-			"id": "5",
-			"title": "Complete Week 2 Code Challenge",
-			"completed": true
-		},
-		{
-			"id": "6",
-			"title": "Win a Kahoot quiz",
-			"completed": true
-		}
-	]	
+  "todos": [
+    {
+      "id": "1",
+      "title": "Complete Week 1 Code Challenge",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Do all pending quizzes",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Finish project presentation",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "title": "Study JS map method",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Complete Week 2 Code Challenge",
+      "completed": true
+    },
+    {
+      "id": "6",
+      "title": "Win a Kahoot quiz",
+      "completed": true
+    },
+    {
+      "id": "6e7d",
+      "title": "start react fundamentals",
+      "completed": false
+    }
+  ]
 }
